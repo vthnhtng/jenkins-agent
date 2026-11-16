@@ -1,0 +1,9 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "Small team-friendly todo CLI backed by a shared JSON file",
+  "type": "commonjs",
+  "bin": { "todo": "bin/todo.js" },
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
